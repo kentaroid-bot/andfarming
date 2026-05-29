@@ -16,6 +16,6 @@
 ## 最初に読みたい文書
 
 - [principles.md](principles.md): 基本思想と判断軸
+- [compost-and-cn.md](compost-and-cn.md): 堆肥と土壌C/N比
 - [hypotheses.md](hypotheses.md): 検証中の仮説
 - [glossary.md](glossary.md): 用語集
-
