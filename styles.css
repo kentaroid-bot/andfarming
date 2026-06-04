@@ -289,9 +289,15 @@ h3 {
   padding-top: 20px;
 }
 
+.recipe-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px 18px;
+  margin-top: 4px;
+}
+
 .text-link {
   display: inline-flex;
-  margin-top: 4px;
   color: var(--field);
   font-weight: 850;
   text-decoration-thickness: 2px;
