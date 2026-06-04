@@ -273,9 +273,29 @@ h3 {
   gap: 18px;
 }
 
+.recipe-group-title {
+  margin: 0 0 -2px;
+  color: var(--soil);
+  font-size: 15px;
+  font-weight: 900;
+}
+
+.recipe-group-title:not(:first-child) {
+  margin-top: 12px;
+}
+
 .recipe-list article {
   border-top: 1px solid var(--line);
   padding-top: 20px;
+}
+
+.text-link {
+  display: inline-flex;
+  margin-top: 4px;
+  color: var(--field);
+  font-weight: 850;
+  text-decoration-thickness: 2px;
+  text-underline-offset: 4px;
 }
 
 .join {
