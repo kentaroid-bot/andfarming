@@ -17,5 +17,6 @@
 
 - [principles.md](principles.md): 基本思想と判断軸
 - [compost-and-cn.md](compost-and-cn.md): 堆肥と土壌C/N比
+- [young-grass-incorporation.md](young-grass-incorporation.md): 若草の生すき込みと土壌養分の循環
 - [hypotheses.md](hypotheses.md): 検証中の仮説
 - [glossary.md](glossary.md): 用語集
