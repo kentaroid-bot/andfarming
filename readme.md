@@ -238,6 +238,7 @@
 | [philosophy/](philosophy/) | 哲学、背景、基本思想、検証中の仮説、用語集 |
 | [techniques/](techniques/) | 水やり、育苗、支柱立て、草管理などの基礎技術 |
 | [crops/](crops/) | 作物ごとの育て方、観察ポイント、結果 |
+| [ideas/](ideas/) | 検証前の思いつき、あとで試したい発想、観察したい視点 |
 | [records/](records/) | 実際の栽培記録、失敗例、改善案 |
 | [templates/](templates/) | 観察記録や作物ページのテンプレート |
 
@@ -292,6 +293,8 @@ recipes/
   tomato.md
   cucumber.md
   daikon.md
+ideas/
+  2026-07-18-partial-grass-mulch.md
 records/
   2026/
 docs/
